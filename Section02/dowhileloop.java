@@ -5,7 +5,7 @@ public class dowhileloop {
         do{
             System.out.println(i);
             i++;
-        }while(i<10);
+        }while(i<10);//even it is false one time it will be executed
 
         
     }
