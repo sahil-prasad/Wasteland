@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arithmatic",
+            "request": "launch",
+            "mainClass": "Arithmatic",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "BasicString",
+            "request": "launch",
+            "mainClass": "BasicString",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "Sample01",
+            "request": "launch",
+            "mainClass": "Sample01",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "Sample02",
+            "request": "launch",
+            "mainClass": "Sample02",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld(1)",
+            "request": "launch",
+            "mainClass": "Section05.HelloWorld",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "helloWorld1",
+            "request": "launch",
+            "mainClass": "Section05.helloWorld1",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "SolvingEquation",
+            "request": "launch",
+            "mainClass": "SolvingEquation",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "assignment",
+            "request": "launch",
+            "mainClass": "assignment",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "decision",
+            "request": "launch",
+            "mainClass": "decision",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "decision01",
+            "request": "launch",
+            "mainClass": "decision01",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "decision03",
+            "request": "launch",
+            "mainClass": "decision03",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "dowhileloop",
+            "request": "launch",
+            "mainClass": "dowhileloop",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "enhancedswitch",
+            "request": "launch",
+            "mainClass": "enhancedswitch",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "increment",
+            "request": "launch",
+            "mainClass": "increment",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "looping",
+            "request": "launch",
+            "mainClass": "looping",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "methods",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "methods02",
+            "request": "launch",
+            "mainClass": "methods02",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "switchit",
+            "request": "launch",
+            "mainClass": "switchit",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "ternaryop",
+            "request": "launch",
+            "mainClass": "ternaryop",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "typeCasting01",
+            "request": "launch",
+            "mainClass": "typeCasting01",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "typeCasting02",
+            "request": "launch",
+            "mainClass": "typeCasting02",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "while01",
+            "request": "launch",
+            "mainClass": "while01",
+            "projectName": "Wasteland_a9f2aba1"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "Wasteland_a9f2aba1"
+        }
+    ]
+}
